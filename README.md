@@ -60,7 +60,7 @@ data/
 ```powershell
 # Clone the repository
 git clone <your-repo-url>
-cd brain-tumor-detection
+cd brain-tumor
 
 # Create virtual environment
 python -m venv venv
@@ -197,7 +197,7 @@ model.save('model.keras')
 ## 📂 Project Structure
 
 ```
-brain-tumor-detection/
+brain-tumor/
 ├── preprocessing.py       # Image processing utilities
 ├── augmentation.py        # Data augmentation configs
 ├── model_architectures.py # Model definitions
