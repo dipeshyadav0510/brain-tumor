@@ -198,7 +198,11 @@ model.save('model.keras')
 
 ```
 brain-tumor/
+<<<<<<< HEAD
 ├── preprocessing.py       # Image processing utilities
+=======
+├── preprocessing.py        # Image processing utilities
+>>>>>>> 0cb9e77bcb71b646a7afc1f964d064c5b53a9f41
 ├── augmentation.py        # Data augmentation configs
 ├── model_architectures.py # Model definitions
 ├── train.py               # Training script
