@@ -40,7 +40,7 @@
 
 ## 📁 Dataset
 
-Using the [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) dataset from Kaggle.
+Using the [Brain Tumor Classification (MRI)]([https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)) dataset from Kaggle.
 
 **Expected structure:**
 ```
@@ -216,7 +216,7 @@ brain-tumor-detection/
 
 ## 📝 Citation
 
-Dataset: [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+Dataset: [Brain Tumor Classification (MRI)]([https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection))
 
 ## 🤝 Contributing
 
@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ using TensorFlow, Keras, and Streamlit**
+**Built by Dipesh Yadav using TensorFlow, Keras, and Streamlit**
 
 [Report Bug](issues) • [Request Feature](issues)
 
