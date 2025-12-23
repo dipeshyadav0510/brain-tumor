@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange.svg)
-![License](https://img.shields.io/badge/License-Educational-green.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 **Binary classification of brain MRI scans using deep learning and computer vision**
 
@@ -40,7 +40,7 @@
 
 ## 📁 Dataset
 
-Using the [Brain Tumor Classification (MRI)]([https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)) dataset from Kaggle.
+Using the [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) dataset from Kaggle.
 
 **Expected structure:**
 ```
@@ -227,7 +227,9 @@ Contributions welcome! Please follow these guidelines:
 
 ## 📄 License
 
-Educational use only. Not licensed for clinical or commercial applications.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Note:** While the code is MIT licensed, this project is intended for educational and research purposes. Not recommended for clinical or diagnostic use without proper medical validation.
 
 ---
 
