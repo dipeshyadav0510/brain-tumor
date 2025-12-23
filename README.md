@@ -40,7 +40,7 @@
 
 ## 📁 Dataset
 
-Using the [Brain Tumor Classification (MRI)]([https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)) dataset from Kaggle.
+Using the [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) dataset from Kaggle.
 
 **Expected structure:**
 ```
@@ -60,7 +60,7 @@ data/
 ```powershell
 # Clone the repository
 git clone <your-repo-url>
-cd brain-tumor
+cd brain-tumor-detection
 
 # Create virtual environment
 python -m venv venv
@@ -197,12 +197,8 @@ model.save('model.keras')
 ## 📂 Project Structure
 
 ```
-brain-tumor/
-<<<<<<< HEAD
+brain-tumor-detection/
 ├── preprocessing.py       # Image processing utilities
-=======
-├── preprocessing.py        # Image processing utilities
->>>>>>> 0cb9e77bcb71b646a7afc1f964d064c5b53a9f41
 ├── augmentation.py        # Data augmentation configs
 ├── model_architectures.py # Model definitions
 ├── train.py               # Training script
@@ -220,7 +216,7 @@ brain-tumor/
 
 ## 📝 Citation
 
-Dataset: [Brain Tumor Classification (MRI)]([https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection))
+Dataset: [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 ## 🤝 Contributing
 
